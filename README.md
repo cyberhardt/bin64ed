@@ -1,4 +1,4 @@
-Description: Description: bin64ed is a lightweight binary base64 encoder and decoder that allows you to process both text and media files (images, pdfs, etc). This is a mirror of the original repository at: https://sourceforge.net/projects/base64-binary/.
+Description: bin64ed is a lightweight binary base64 encoder and decoder that allows you to process both text and media files (images, pdfs, etc). This is a mirror of the original repository at: https://sourceforge.net/projects/base64-binary/.
 
 The author did not provide build instructions. Program runs on Windows 10 and possibly on 7, 8 and 11. It is very fast and lightweight.
 
