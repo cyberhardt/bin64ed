@@ -1,0 +1,4 @@
+[2018-11-26] 2.0.1   Added HTML <img> tags as potential output option
+[2017-06-29] 2.0     Complete rewrite
+[2017-03-39] 1.1     First release of GUI tool
+[2016-08-13] 1.0     First release

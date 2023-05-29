@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add.png</file>
+        <file>images/clear.png</file>
+        <file>images/info_icon.png</file>
+        <file>images/logo_twitter_25px.png</file>
+        <file>images/remove.png</file>
+        <file>images/sourceforge_logo_small.png</file>
+        <file>images/Built_with_Qt_RGB_logo.png</file>
+    </qresource>
+</RCC>
